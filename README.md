@@ -1,3 +1,4 @@
+![Python package](https://github.com/sylvelk/ppprint/workflows/Python%20package/badge.svg)
 # Python Pretty Print
 
 A simple and lightweight Python library to use as a replacement of the default `print()` function.
